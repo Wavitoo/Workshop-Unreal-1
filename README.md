@@ -71,16 +71,16 @@ En résumé, Unreal Engine est un moteur de jeu puissant, flexible et polyvalent
 ## Création du projet
 Tout d'abord, vous allez lancez Unreal via le launcher d'Epic Games avec la version que vous avez installé.
 
-![launcher_epic](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/202a9458-acde-44cc-b556-0bcf853db6b4)
+![launcher_epic](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/71fdbfac-e7c0-464a-88ab-7091d9f1a041)
 
-![launcher_2](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/4404a084-2f65-4ab7-b8c8-92a91ca4bc76)
+![launcher_2](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/81cf2f77-a561-4c1c-b21e-b271eada6c9e)
 
-![version_moteur](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/6197a868-c1ca-45fc-8b4a-16ae14dddf4e)
+![version_moteur](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/fd296cc2-7baf-4a0c-a2c3-77c3d36bd279)
 
 Maintenant vous allez créer un projet afin de découvrir le logiciel ainsi que son interface.
 Dès que vous avez lancez le logiciel vous devrez tomber sur une interface contenant ceci :
 
-![create_project](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/8e7e81a8-2188-4f38-872d-d4a850935d4e)
+![create_project](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/d75faaa4-bba8-4994-8ab8-aab213ddf972)
 
 Vous allez sélectionner Games car nous souhaitons créer un jeu.
 Comme dis au dessus nous pouvons créer plusieurs type de projet avec Unreal voici les types autre que les jeux vous pouvez choisir.
@@ -124,7 +124,7 @@ Les "templates" sur Unreal Engine sont des modèles de projet préconfigurés qu
 
 Nous allons nous focaliser sur la troisième personne donc veuillez bien à sélectionner le template "Third Person"
 
-![type_project](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/49b61f8b-4d03-4fad-895a-be3b0d31fe96)
+![type_project](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/26376ab3-d30e-4fd5-8f48-b9a9f42a56ba)
 
 Vous pouvez appuyer sur le bouton Next.
 
@@ -140,7 +140,7 @@ Maintenant on peut personnaliser notre projet :
 
 5. Starter Content : Vous avez la possibilité d'inclure ou d'exclure le contenu de départ (Starter Content) dans votre projet. Le contenu de départ comprend des modèles 3D, des textures, des matériaux et des effets sonores préfabriqués qui peuvent être utiles pour démarrer rapidement le développement de votre jeu.
 
-![project_settings](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/6931b2b8-a27a-473b-a0c2-628df28cdcf8)
+![project_settings](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/ed6ea9db-7f7d-4bb8-b73e-617beb3c4907)
 
 Pour les paramètres on ne changera rien on laisse tel quel donc :
 
@@ -157,7 +157,7 @@ Une fois que vous avez configuré ces paramètres selon vos besoins, vous pouvez
 Comme tout les logiciels on aura le File, Edit, Window et Help nous utiliserons que certains d'entre eux bientôt !
 Dès que votre projet lancé vous découvrerez l'interface global d'Unreal :
 
-![interface_global](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/101f873e-88a4-47b0-bbf1-6add07eff9da)
+![interface_global](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/cd1d34c8-50fe-41b0-a4ba-a36324166fb0)
 
 Vous trouverez plusieurs parties :
 
@@ -165,40 +165,40 @@ Vous trouverez plusieurs parties :
 C'est la fenêtre principale où vous pouvez visualiser et interagir avec votre scène en 3D. Vous pouvez y naviguer, placer des objets, ajuster l'éclairage et visualiser vos effets en temps réel.
 La où vous pourrez jouer votre jeu en simulation.
 
-![viewport](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/b90348c5-b826-4446-9b98-2c3544174e21)
+![viewport](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/ed63d893-bcde-4241-abac-94ededfd5388)
 
 Le viewport d'Unreal Engine est équipé de plusieurs outils qui vous permettent de naviguer dans votre scène, d'interagir avec les objets et d'effectuer des ajustements en temps réel. Vous pouvez voir en bas à gauche du viewport trois axes avec des couleurs ce qui correspondera avec le nom des axes renseignés.
 Voici une liste des principaux outils disponibles dans le viewport :
 
 **- Côté haut à gauche :**
 
-![opt](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/2f9491c6-ddb2-4313-970e-b1fc6d2af668)
+![opt](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/f47b24da-c4d5-4559-a89d-daabe81ef760)
 
 Vous trouverez en cliquant sur la flèche les viewport options.
 Vous pouvez utiliser différentes options mais celles qui sont le + utiles sont le show FPS et après vous pouvez changer le FOV du viewport et d'autres choses mais ça reste personnel au niveau des options.
 Si vous désirez changer vous pouvez les changer.
 
-![vp_opt](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/965e0f00-9187-4d1c-965e-3eb797ce3e6b)
+![vp_opt](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/24c9c0e2-e0a3-4667-92f9-6d3cb475f7d5)
 
 Ensuite où il y a marqué Perspective c'est la vue de comment sera votre viewport.
 Changer cette option est souvent récurrente lorsqu'on doit aligner des objets dans notre scène, en utilisant la vue de face, de gauche, de droite, ...
 
-![type_view](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/d2575b12-02d1-49a1-a70b-24e134a6fd4f)
+![type_view](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/6d5cc725-3a15-42db-a2ed-18ac0583cb02)
 
 Vous avez le View mode (où il y a marqué Lit).
 Cette option sera très utile, vous utiliserez souvent le mode Lit et Unlit.
 Par exemple le monde Unlit enlève toutes les lumières de la scène donc plus d'ombre.
 Si vous faites un jeu d'horreur qui aura tendance à être sombre ou dans un lieu fermé par exemple avec très peu de lighting le mode Unlit sera très utile afin de placer des éléments ou autres.
 
-![view_mode](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/6217e7b6-2960-41a2-aa6f-7e801075091a)
+![view_mode](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/1cc25b58-1cfd-4d2d-b6c8-28f46d6e0f24)
 
 Le Show est une option où l'utilisation sera très rare mais cliquez dessus et regarder ce que vous pouvez afficher ou enlever.
 
-![show_flags](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/c28ff8e9-66fb-4635-9363-cb274a55cf26)
+![show_flags](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/9453f6af-741d-4870-8156-a4b5078590b4)
 
 **- Côté haut à droite :**
 
-![transform_cam_tooltip](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/e9cd7fad-9ec4-4e51-ac16-874378c98d1f)
+![transform_cam_tooltip](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/417eb20a-c1ac-497d-a68a-a079598c6de8)
 
 Nous commençons avec le transform qui peut être utilisé grâce à des raccourcis : W pour les translations, E pour les rotations et R pour le scaling.
 Soit vous utilisez les raccourcis où vous pouvez cliquez directement dessus.
@@ -221,58 +221,58 @@ Mais si nous sommes sur une map très grande nous pouvons changer cette vitesse 
 Vous trouverez en haut à droite le dernier bouton qui est lié à la caméra.
 Lorsque vous cliquez dessus vous verrez une barre que vous pouvez scale à la vitesse que vous voulez et cela changera la vitesse de la caméra :
 
-![vitesse_cam](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/bcb11ed0-989f-4ea0-a055-4aee8d5dcc88)
+![vitesse_cam](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/7d93bf84-5601-4b41-af51-294800e6fc39)
 
 **2. World Outliner :**
 Il s'agit d'une liste hiérarchique des objets de votre "niveau" aussi appelé "Level". Vous pouvez y trouver des acteurs tels que des personnages, des objets, des lumières, etc. Vous pouvez également les organiser en groupes et les manipuler facilement.
 
-![world_outliner](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/d77eda80-0546-4cb6-9b9e-f48871572a0c)
+![world_outliner](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/da676b27-4e9f-4275-a57c-d7d86f6435c5)
 
 **3. Details Panel :**
 C'est là que vous pouvez affiner les propriétés des objets sélectionnés dans la scène. Vous pouvez ajuster les paramètres tels que la position, la rotation, l'échelle, les matériaux, les collisions, etc.
 Pour avoir accès aux détails de votre actor (objet) présent dans la scène vous avez juste à cliquer dessus.
 
-![detail_panel](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/13589871-b774-49f5-bb01-0e156f4528ba)
+![detail_panel](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/2a3ec0c0-669f-417b-a862-a942eab0d758)
 
 **4. Modes Panel :**
 Ce panneau contient les différents modes de construction et d'édition, tels que le mode Sélection, le mode Placement d'objets, le mode Édition de paysage, etc. Vous pouvez basculer entre ces modes pour effectuer différentes actions de conception.
 
-![window_mode](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/0fcccbc7-8826-42d3-af8a-fb247a3ff359)
+![window_mode](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/f6e0a555-b7e1-4c8c-bcd4-20af4401b68f)
 
 **- Mode placement d'objets :**
 
 Ce mode vous permet d'ajouter de nouveaux objets à votre scène. Vous pouvez choisir parmi une variété d'acteurs prédéfinis tels que des objets statiques, des personnages, des lumières, des caméras, etc. Une fois que vous avez sélectionné un type d'objet, vous pouvez cliquer déposer dans le viewport pour le placer dans votre scène.
 
-![place_objets](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/e0b55e61-4a43-4834-99fd-10ededb340bb)
+![place_objets](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/977bae81-488b-497c-8d7e-fa03ab17dd6d)
 
 **- Mode Paint (Peinture) :**
 
 Ce mode est utilisé pour peindre des textures et des matériaux sur votre paysage ou d'autres surfaces. Vous pouvez choisir parmi une variété de textures et de matériaux prédéfinis, ajuster la taille et l'opacité du pinceau, et peindre directement dans le viewport pour ajouter des détails visuels à votre scène.
 
-![paint](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/ae738d4f-b92b-4262-b601-515def9bfbbb)
+![paint](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/b8b3183a-ece2-4b07-bd18-ab1cba549368)
 
 **- Mode Landscape (Paysage) :**
 
 Le mode Landscape est spécialement conçu pour l'édition et la personnalisation des terrains dans votre scène. Vous pouvez utiliser des outils de sculpture pour modifier la forme du terrain, peindre des textures pour ajouter des détails, et ajouter des éléments tels que des rochers, des arbres et de la végétation pour enrichir votre paysage.
 
-![landscape](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/fabb545e-3ca4-4cb0-ad16-ece0040f9d22)
+![landscape](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/ef6ba58a-c092-41b3-8fae-62d609454db9)
 
 **- Mode Foliage (Végétation) :**
 
 Ce mode est utilisé pour ajouter de la végétation et des éléments de nature à votre scène. Vous pouvez choisir parmi une variété d'objets de végétation prédéfinis tels que des arbres, des buissons, des fleurs, etc., et les placer dans votre paysage de manière réaliste. Vous pouvez également ajuster les propriétés de chaque élément de végétation, comme sa taille, son orientation et sa densité.
 
-![folliage](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/b4c3f8a3-38a5-4052-8f87-ecd6efa6c46f)
+![folliage](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/35fe83be-ff96-400c-a77a-72099bc957bb)
 
 **- Mode Geometry Editing (Édition de géométrie) :**
 
 Ce mode est utilisé pour manipuler et éditer la géométrie des objets dans votre scène. Vous pouvez sélectionner, déplacer, faire pivoter et mettre à l'échelle des composants individuels tels que des vertices, des arêtes et des faces, pour modifier la forme et la structure des objets. C'est particulièrement utile pour des ajustements précis ou des modifications de dernière minute sur la géométrie de vos modèles 3D.
 
-![geometry](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/022ba061-ef22-44b1-bb82-6c78d3cc91f9)
+![geometry](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/d75a997c-6bce-40af-9685-8e8f97412672)
 
 **5. Content Browser :**
 C'est une fenêtre où vous pouvez parcourir, importer, organiser et gérer les ressources de votre projet telles que les modèles 3D, les textures, les matériaux, les animations, etc.
 
-![content_browser](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/ce62becf-62e2-484c-bda4-cc1691fea20b)
+![content_browser](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/94c9540b-9eb9-4fd8-bcca-5d48fb9e404d)
 
 ## Exercice 1
 
@@ -333,7 +333,7 @@ Sélectionner la taille que vous voulez dans le Section Size mais je vous consei
 Maintenant vous allez faire le blockout de votre level.
 Vous allez utiliser la section geometry afin de faire ce blockout.
 
-![blockout](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/b8805b6a-c20f-4bf8-b357-42c671629c46)
+![blockout](https://github.com/Wavitoo/Workshop-Unreal-1/assets/114447473/5650cadf-44f0-48da-a077-fe3abe2d6eb6)
 
 Vous voyez que vous avez plusieurs formes disponibles.
 Lorsque vous mettez une de ces geometry dans le level vous pouvez voir dans le Details panel "Brush Settings".
