@@ -347,7 +347,7 @@ Je veux que maintenant que vous avez votre landscape et que vous connaissez les 
 Créer ce que vous voulez que ça soit un labyrinthe, une salle, une maison quoi que ce soit faites parler votre imagination mais prenez en main le blockout.
 Vous pouvez rajouter des éléments interactifs virtuel pour le moment par exemple des cônes pour un interrupteur ou quoi que ce soit d'autre.
 
-Essayez de compléter de votre level.
+Essayez de compléter votre level en entier.
 
 ## Contact
 Si vous avez des questions ou besoin d'informations, veuillez me contacter à arslan.tetu@epitech.eu
